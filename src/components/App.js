@@ -69,7 +69,7 @@ function App() {
                 </p>
               </li>
 
-              {localStorage.getItem("token") && (
+              {/* {localStorage.getItem("token") && (
                 <li className="nav-item">
                   <p
                     className="nav-Link active mynav"
@@ -83,7 +83,7 @@ function App() {
                     Log Out
                   </p>
                 </li>
-              )}
+              )} */}
             </ul>
             {!localStorage.getItem("token") ? (
               <p
