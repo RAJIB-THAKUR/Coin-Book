@@ -19,7 +19,7 @@
 
 #Live_Link : https://rajib-thakur.github.io/Coin-Book/
 
-#GitHub FrontEnd_Code :[ https://github.com/RAJIB-THAKUR/Coin-Book ] OR [ https://github.com/biswajitng68/coinbook ]
+#GitHub FrontEnd_Code : https://github.com/RAJIB-THAKUR/Coin-Book   OR    https://github.com/biswajitng68/coinbook 
 
 #GitHub BackEnd_Code : https://github.com/RAJIB-THAKUR/coinBook_Backend
 
