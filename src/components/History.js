@@ -321,7 +321,7 @@ function History() {
                 }}
               >
                 <p>{ysum}</p>
-                <p>Year expense</p>
+                <p>Year Expense</p>
               </div>
               <div
                 className="col-4 mobstat rounded"
@@ -330,11 +330,11 @@ function History() {
                 }}
               >
                 <p>{msum}</p>
-                <p>Month expense</p>
+                <p>Month Expense</p>
               </div>
               <div className="col-4 mobstat rounded">
                 <p>{dsum}</p>
-                <p>Day expense</p>
+                <p>Day Expense</p>
               </div>
             </div>
           )}
