@@ -9,9 +9,6 @@ CoinBook is a web based application to track our daily life expenses in more dis
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 #This is the frontend code for our app named "COIN-BOOK" build by our team of 3 members.
 
-
-#Meet Developers Team
-
 #Rajib Thakur
 
 #Biswajit Nag
