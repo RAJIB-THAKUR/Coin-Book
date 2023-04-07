@@ -190,7 +190,7 @@ function Yearstat() {
     labels: labels,
     datasets: [
       {
-        label: "Expense vs month",
+        label: "Expense v/s Month",
         backgroundColor: "rgba(57, 99, 252, 1)",
         borderColor: "rgb(155, 199, 132)",
         data: yrdetail,
@@ -269,7 +269,7 @@ function Yearstat() {
           )}
           <div className="row mx-3 my-3">
             <div className=" col col-md-6 col-lg-6 col-sm-12 mycalback rounded">
-              <h3>Your yearly expense stat</h3>
+              <h3>Your Yearly Expense Statistics</h3>
               <div className="row">
                 {(() => {
                   let rows = [];
@@ -299,7 +299,7 @@ function Yearstat() {
               </div>
 
               <div className="chartstat shadow-lg p-2  rounded">
-                <p>Typewise expenses</p>
+                <p>Typewise Expenses</p>
                 <div className="chartsp">
                   <Doughnut data={datatypewise} options={options1} />
                 </div>

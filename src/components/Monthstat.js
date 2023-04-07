@@ -99,7 +99,7 @@ function Monthstat() {
   console.log(totalday);
   var labels = [];
   for (let index = 0; index < totalday; index++) {
-    labels[index] = "Day" + (index + 1);
+    labels[index] = "Day " + (index + 1);
   }
   console.log(modetail);
   let val = true;
@@ -109,7 +109,7 @@ function Monthstat() {
     labels: labels,
     datasets: [
       {
-        label: "Expense Vs Day",
+        label: "Expense v/s Day",
         //data: [18, 12, 6, 9, 12, 3, 9],
         data: modetail,
 
@@ -141,7 +141,7 @@ function Monthstat() {
     labels: labels,
     datasets: [
       {
-        label: "Expense Vs Day",
+        label: "Expense v/s Day",
         //data: [18, 12, 6, 9, 12, 3, 9],
         data: modetail,
 
@@ -305,7 +305,7 @@ function Monthstat() {
           )}
           <div className="row mx-3 my-3">
             <div className="col-lg-6 col-md-12 mycalback rounded">
-              <h3>Your {monthname[selmon]} month expense stat</h3>
+              <h3>Your {monthname[selmon]} Month Expense Statistics</h3>
               <div className="row">
                 {(() => {
                   let rows = [];

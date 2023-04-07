@@ -554,7 +554,7 @@ function Main() {
                       </div>
                       <p className="col dividervt"></p>
                       <div className="col circstatcenter">
-                        <h4>Expense of year</h4>
+                        <h4>Expense of Year</h4>
                       </div>
                     </div>
                   </Link>
@@ -566,7 +566,7 @@ function Main() {
                       </div>
                       <p className="col dividervt"></p>
                       <div className="col circstatcenter">
-                        <h4>Expense of month</h4>
+                        <h4>Expense of Month</h4>
                       </div>
                     </div>
                   </Link>
@@ -577,7 +577,7 @@ function Main() {
                     </div>
                     <p className="col dividervt"></p>
                     <div className="col circstatcenter">
-                      <h4>Expense of day</h4>
+                      <h4>Expense of Day</h4>
                     </div>
                   </div>
                 </div>
