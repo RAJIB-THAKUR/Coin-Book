@@ -198,7 +198,7 @@ function Yearstat() {
         borderSkipped: false,
         borderRadius: 5,
         barPercentage: 0.3,
-        categoryPercentage: 0.8 ,
+        categoryPercentage: 0.8,
       },
     ],
   };
