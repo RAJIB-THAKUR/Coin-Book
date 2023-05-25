@@ -239,8 +239,8 @@ function Yearstat() {
     plugins: {
       indexAxis: "y",
       legend: {
-        //display:false,
-
+        display:false,
+        col: 1,
         position: "left",
         labels: {
           color: "rgba(13, 245, 233, 0.8)",
