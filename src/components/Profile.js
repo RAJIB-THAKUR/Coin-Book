@@ -65,7 +65,7 @@ function Profile() {
   async function addexpensetype() {
     setfsuc(false);
     if (extypead === undefined) {
-      alert("Expense type cannot beCannot be blank");
+      alert("Expense type cannot be blank");
     } else if (
       extypead.toUpperCase() == "OTHER" ||
       extypead.toUpperCase() == "TRAVEL" ||
