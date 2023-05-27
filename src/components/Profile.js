@@ -64,13 +64,15 @@ function Profile() {
   //add expense type
   async function addexpensetype() {
     setfsuc(false);
-    if (
+    if (extypead === undefined) {
+      alert("Expense type cannot beCannot be blank");
+    } else if (
       extypead.toUpperCase() == "OTHER" ||
       extypead.toUpperCase() == "TRAVEL" ||
       extypead.toUpperCase() == "FOOD" ||
       extypead.toUpperCase() == "GENERAL"
     ) {
-      alert("This type exists by default");
+      alert("This type already exists by default");
     } else {
       const response = await fetch(
         "https://coin-book-app-backend-mern4.onrender.com/user/add_User_Expense_Type",
