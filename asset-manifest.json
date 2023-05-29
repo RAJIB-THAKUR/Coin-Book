@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coin-Book/static/css/main.ccc3eefb.css",
-    "main.js": "/Coin-Book/static/js/main.f535d856.js",
+    "main.js": "/Coin-Book/static/js/main.3e156cba.js",
     "static/js/787.eeb386d3.chunk.js": "/Coin-Book/static/js/787.eeb386d3.chunk.js",
     "static/media/fpvideo.mp4": "/Coin-Book/static/media/fpvideo.d12de47ce4a4ce8ec25d.mp4",
     "static/media/back.png": "/Coin-Book/static/media/back.1d49b091d2c858a21a72.png",
@@ -10,11 +10,11 @@
     "static/media/Coin Bookph.mp4": "/Coin-Book/static/media/Coin Bookph.a06c14efdcef10e41642.mp4",
     "index.html": "/Coin-Book/index.html",
     "main.ccc3eefb.css.map": "/Coin-Book/static/css/main.ccc3eefb.css.map",
-    "main.f535d856.js.map": "/Coin-Book/static/js/main.f535d856.js.map",
+    "main.3e156cba.js.map": "/Coin-Book/static/js/main.3e156cba.js.map",
     "787.eeb386d3.chunk.js.map": "/Coin-Book/static/js/787.eeb386d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc3eefb.css",
-    "static/js/main.f535d856.js"
+    "static/js/main.3e156cba.js"
   ]
 }
