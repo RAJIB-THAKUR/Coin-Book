@@ -202,6 +202,7 @@ function Yearstat() {
       },
     ],
   };
+
   console.log(typesst);
   console.log(typesumst);
   const datatypewise = {
@@ -239,7 +240,7 @@ function Yearstat() {
     plugins: {
       indexAxis: "y",
       legend: {
-        display:false,
+        display: false,
         col: 1,
         position: "left",
         labels: {
